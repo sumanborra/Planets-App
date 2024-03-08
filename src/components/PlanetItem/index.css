@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.slider-container {
+  text-align: center;
+  padding: 40px;
+}
+.heading-planets {
+  font-family: 'Roboto';
+  font-size: 38px;
+  font-weight: 800;
+  color: #05acff;
+}
+.image-planets {
+  height: 400px;
+  text-align: center;
+  margin-left: 250px;
+}
+.description-text {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #f8fafc;
+}
+.heading-text{
+  font-family: 'Roboto';
+  font-size: 42px;
+  color: #f1f5f9;
+}
